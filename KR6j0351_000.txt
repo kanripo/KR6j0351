@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說一切如來金剛壽命陀羅尼經
+#+DATE: 2015-08-30 20:30:45.920496
+#+PROPERTY: JUAN 0
