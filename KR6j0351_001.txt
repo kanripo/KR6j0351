@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:45.725898
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:56
 #+TITLE: 佛說一切如來金剛壽命陀羅尼經
 #+PROPERTY: CBETA_ID T20n1135
 #+PROPERTY: ID KR6j0351
